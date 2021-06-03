@@ -5,57 +5,44 @@ const autometa_options = {
   og: true, // open graph: facebook, pinterest, google+
   schema: true, // schema.org for google
   site: {
-    name: "CES Letter",
-    twitter: "cesletter"
+    name: "CBL Letter",
   },
   author: {
-    name: "Jeremy Runnels"
+    name: "Jeremy Hamilton"
   },
-  canonical_base: "https://read.cesletter.org",
+  canonical_base: "",
   image_sources: [
     "frontmatter",
     /!\[.*?\]\((.*?)\)/i, // markdown image regex
-    /<img.*?src=['"](.*?)['"]/i, // html image regex
-    "https://read.cesletter.org/images/clf-og.png"
+    /<img.*?src=['"](.*?)['"]/i // html image regex
   ]
 };
 
 module.exports = {
-  title: "CES Letter",
+  title: "CBL Letter",
   description:
-    "CES Letter is one Latter-Day Saint's honest quest to get official answers from the LDS Church on its troubling origins, history, and practices. Jeremy Runnells was offered an opportunity to discuss his own doubts with a director of the Church Educational System (CES) and was assured that his doubts could be resolved. After reading Jeremy's letter, the director promised him a response. No response ever came.",
+    "The CBL letter is a collection of research that asks questions about the fundamental reasoning behind biblical literalism.",
   ga: "UA-44595227-2",
   themeConfig: {
-    domain: "https://read.cesletter.org",
-    nav: [{ text: "Home", link: "https://cesletter.org/" }],
+    domain: "",
+    nav: [{ text: "Home", link: "" }],
     sidebarDepth: 1,
     sidebar: [
       ["/", "Title Page"],
       ["/preface/", "Preface"],
       ["/dedication/", "Dedication"],
       ["/introduction/", "Introduction"],
-      ["/bom/", "Book of Mormon"],
-      ["/bom-translation/", "Book of Mormon Translation"],
-      ["/first-vision/", "First Vision"],
-      ["/boa/", "Book of Abraham"],
-      ["/polygamy/", "Polygamy | Polyandry"],
-      ["/prophets/", "Prophets"],
-      ["/kinderhook/", "Kinderhook Plates & Translator Claims"],
-      ["/testimony/", "Testimony & Spiritual Witness"],
-      ["/priesthood/", "Priesthood Restoration"],
-      ["/witnesses/", "Witnesses"],
-      ["/temples/", "Temples & Freemasonry"],
       ["/science/", "Science"],
       ["/other/", "Other"],
       ["/conclusion/", "Conclusion"],
       ["/epilogue/", "Epilogue"]
     ],
-    repo: "cesletter/book",
-    docsRepo: "cesletter/book",
+    repo: "flyingcircle/book",
+    docsRepo: "flyingcircle/book",
     repoLabel: "GitHub",
     editLinks: false,
     editLinkText: "Help us improve this page!",
-    author: "Jeremy Runnels"
+    author: "Jeremy Hamilton"
   },
   plugins: [["autometa", autometa_options]],
   locales: {
@@ -63,9 +50,9 @@ module.exports = {
     // As a special case, the default locale can use '/' as its path.
     "/": {
       lang: "en-US", // this will be set as the lang attribute on <html>
-      title: "CES Letter",
+      title: "CBL Letter",
       description:
-        "CES Letter is one Latter-Day Saint's honest quest to get official answers from the LDS Church on its troubling origins, history, and practices. Jeremy Runnells was offered an opportunity to discuss his own doubts with a director of the Church Educational System (CES) and was assured that his doubts could be resolved. After reading Jeremy's letter, the director promised him a response. No response ever came."
+        "The CBL letter is a collection of research that asks questions about the fundamental reasoning behind biblical literalism."
     }
   },
   serviceWorker: true,

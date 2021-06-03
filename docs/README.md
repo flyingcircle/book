@@ -1,13 +1,10 @@
 ---
-title: CES Letter - My Search for Answers to my Mormon Doubts
-meta:
-  - name: "og:image"
-    content: "https://read.cesletter.org/images/clf-og.png"
+title: CBL Letter - My Search for Answers to Biblical Literalism
 ---
 
 <TitlePage
-  title="CES LETTER"
-  subtitle="MY SEARCH FOR ANSWERS TO MORMON DOUBTS"
-  author="Jeremy T. Runnels"
-  dates="April 2013, Updated October 2017"
+  title="CBL LETTER"
+  subtitle="MY SEARCH FOR ANSWERS TO BIBLICAL LITERALISM"
+  author="Jeremy E. Hamilton"
+  dates="June 2021"
 />

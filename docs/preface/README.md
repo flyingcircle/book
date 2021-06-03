@@ -1,12 +1,10 @@
 ---
 title: Preface
-meta:
-  - name: "og:image"
-    content: "https://read.cesletter.org/images/clf-og.png"
 ---
 
 <div class="text-center" style="max-width: 400px; margin: 50px auto;">
-  <ImageWithCaption src="/images/j-reuben-clark.jpg" />
-  <q class="quote">If we have the truth, it cannot be harmed by investigation. If we have not the truth, it ought to be harmed.</q>
-  <p class="spaced-title">PRESIDENT J. REUBEN CLARK</p>
+  <section style="padding-top: 8rem;">
+  <q class="quote">That truth, having nothing to fear from investigation, must be pursued relentlessly in every discipline</q>
+  <p class="spaced-title">Excerpt from the Pepperdine University Affirmation Statement</p>
+  </section>
 </div>
