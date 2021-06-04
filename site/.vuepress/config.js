@@ -23,6 +23,7 @@ module.exports = {
   description:
     "The CBL letter is a collection of research that asks questions about the fundamental reasoning behind biblical literalism.",
   ga: "UA-44595227-2",
+  base: "/book/",
   themeConfig: {
     domain: "https://flyingcircle.github.io/book/dist/",
     nav: [{ text: "Home", link: "https://flyingcircle.github.io/book/dist/" }],
