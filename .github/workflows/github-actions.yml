@@ -15,7 +15,6 @@ jobs:
           yarn run docs:build
       - name: Create local changes
         run: |
-          sed -i -e 'docs/.vuepress/dist/d' .gitignore
           git add .
       - name: Commit files
         run: |
