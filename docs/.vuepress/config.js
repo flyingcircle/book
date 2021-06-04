@@ -10,7 +10,7 @@ const autometa_options = {
   author: {
     name: "Jeremy Hamilton"
   },
-  canonical_base: "",
+  canonical_base: "https://flyingcircle.github.io/book/dist/",
   image_sources: [
     "frontmatter",
     /!\[.*?\]\((.*?)\)/i, // markdown image regex
@@ -24,8 +24,8 @@ module.exports = {
     "The CBL letter is a collection of research that asks questions about the fundamental reasoning behind biblical literalism.",
   ga: "UA-44595227-2",
   themeConfig: {
-    domain: "",
-    nav: [{ text: "Home", link: "" }],
+    domain: "https://flyingcircle.github.io/book/dist/",
+    nav: [{ text: "Home", link: "https://flyingcircle.github.io/book/dist/" }],
     sidebarDepth: 1,
     sidebar: [
       ["/", "Title Page"],
