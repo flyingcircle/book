@@ -5,7 +5,7 @@ const autometa_options = {
   og: true, // open graph: facebook, pinterest, google+
   schema: true, // schema.org for google
   site: {
-    name: "CBL Letter",
+    name: "MLL Letter",
   },
   author: {
     name: "Jeremy Hamilton"
@@ -19,9 +19,9 @@ const autometa_options = {
 };
 
 module.exports = {
-  title: "CBL Letter",
+  title: "MLL Letter",
   description:
-    "The CBL letter is a collection of research that asks questions about the fundamental reasoning behind biblical literalism.",
+    "The MLL letter is a collection of research that asks questions about the fundamental reasoning behind biblical literalism.",
   ga: "UA-44595227-2",
   base: "/book/",
   themeConfig: {
@@ -33,7 +33,9 @@ module.exports = {
       ["/preface/", "Preface"],
       ["/dedication/", "Dedication"],
       ["/introduction/", "Introduction"],
-      ["/science/", "Science"],
+      ["/ot/", "Old Testament"],
+      ["/flood/", "The Flood"],
+      ["/prophecies/", "Prophecies"],
       ["/other/", "Other"],
       ["/conclusion/", "Conclusion"],
       ["/epilogue/", "Epilogue"]
@@ -51,9 +53,9 @@ module.exports = {
     // As a special case, the default locale can use '/' as its path.
     "/": {
       lang: "en-US", // this will be set as the lang attribute on <html>
-      title: "CBL Letter",
+      title: "MLL Letter",
       description:
-        "The CBL letter is a collection of research that asks questions about the fundamental reasoning behind biblical literalism."
+        "The MLL letter is a collection of research that asks questions about the fundamental reasoning behind biblical literalism."
     }
   },
   serviceWorker: true,
