@@ -18,10 +18,18 @@ The Enuma Elish describes the god Marduk cutting open Tiamat thus creating the s
 
 The Enuma Elish was discovered relatively recently (1849) and wasn't publicly published until 1876. Before this discovery, the story in Genesis was thought to be unique in its telling of creation. However since then, archaeologists have discovered several creation myths from nearby civilizations of the same time period that all have similar details.
 
-Why does the Bible's creation story have so much in common with the creation stories of the surrounding societies? Why do creation stories that predate Genesis and the Hebrew people have so much in common with the Bible's creation story?
-
-## El
+Why does the Bible's creation story have so much in common with the creation stories of the surrounding societies? Why do creation stories that predate the writing of Genesis and the Hebrew people have so much in common with the Bible's creation story?
 
 ## Code of Hammurabi
 
+The [Code of Hammurabi](https://www.history.com/topics/ancient-history/hammurabi)
+
 ## Cannanite Genocide
+
+## Jerhico
+
+## Daniel
+
+## Ruth / Esther
+
+## Chronicles

@@ -36,6 +36,10 @@ module.exports = {
       ["/ot/", "Old Testament"],
       ["/flood/", "The Flood"],
       ["/prophecies/", "Prophecies"],
+      ["/gospels/", "Gospels"],
+      ["/paul/", "Paul"],
+      ["/peter/", "Peter"],
+      ["/nt/", "New Testament"],
       ["/other/", "Other"],
       ["/conclusion/", "Conclusion"],
       ["/epilogue/", "Epilogue"]

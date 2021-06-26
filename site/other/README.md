@@ -6,3 +6,8 @@ title: Other - Concerns & Questions
   title="Other"
   subtitle="Concerns & Questions"
 />
+
+
+## Canon
+
+## Removed Scripture
