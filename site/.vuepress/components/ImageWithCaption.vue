@@ -2,7 +2,7 @@
   <div class="ImageWithCaption"> 
     <div class="title" v-if="title">{{title}}</div>
     <div class="above" v-if="above" v-html="mdAbove"></div>
-    <img :src="src" />
+    <img :src="$withBase(src)" />
     <div class="title" v-if="bottomTitle">{{bottomTitle}}</div>
     <div class="below" v-if="below" v-html="mdBelow"></div>
   </div>

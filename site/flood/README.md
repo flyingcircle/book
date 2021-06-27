@@ -19,11 +19,11 @@ The church taught me that the flood happened approximately 4,500 years ago. Floo
 
 From childhood we are taught that the number of rings in a tree tells us how old a tree is. The changing of seasons causes the tree to grow faster or slower depending which become visible rings in a tree trunk. The study of this phenomenon is known as "dendrochronology.
 
-<ImageWithCaption src="$withBase('/images/Tree.ring.arp.jpg)" title="Each ring represents a single year." />
+<ImageWithCaption src="/images/Tree.ring.arp.jpg" title="Each ring represents a single year." />
 
 It's possible to not just measure the age of tree with its rings, but you can also figure out [which years the tree was alive for](https://www.crowcanyon.org/index.php/dendrochronology). This is possible since tree ring size is based on the length of a season, all trees in a particular area will have the same tree ring pattern. So it's possible to create a database of tree ring patterns and figure out when a particular tree you are looking at lived. 
 
-<ImageWithCaption src="$withBase('/images/dendrochronology.jpg)" />
+<ImageWithCaption src="/images/dendrochronology.jpg" />
 
 By digging up older trees and analyzing the ring structure, researchers have been able to string together over 12,000 years worth of unbroken tree rings. Meaning, that there have been trees existing and living without any break for at least the past [14,000 years](https://www.asa3.org/ASA/PSCF/2018/PSCF6-18Davidson.pdf).
 
