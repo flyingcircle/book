@@ -10,7 +10,8 @@ title: Historical Flood
 <QuoteWithReference
   quote="The Flood of Noah’s day (2348 BC) was a year-long global catastrophe that destroyed the pre-Flood world, reshaped the continents, buried billions of creatures, and laid down the rock layers. It was God’s judgment on man’s wickedness and only eight righteous people, and representatives of every kind of land animal, were spared aboard the Ark."
   attribution="Answers in Genesis"
-  source="https://answersingenesis.org/the-flood/"
+  source="AiG Website"
+  link="https://answersingenesis.org/the-flood/"
 />
 
 The church taught me that the flood happened approximately 4,500 years ago. Floods happen with some frequency even today, so the changes they make to the landscape, geology, etc. are all well known. The story of Noah also tells us that every animal on the planet was reduced down to only a single mating pair (or seven pairs for the clean animals), so what evidence have we found today to demonstrate this loss of animal life? We would also be able to see catastrophic destruction of all human life save Noah and his family. So we should be able to see any civilization from before 2400 BC disappear around that time and a new set of civilzations appear after 2300 BC.
@@ -35,7 +36,7 @@ By digging up older trees and analyzing the ring structure, researchers have bee
   24: The waters flooded the earth for a hundred and fifty days."
 />
 
-No tree could survive being underwater for half a year. How is that there are no breaks in tree rings for the past 14,000 years? Why don't we see a sudden break 4,000-5,000 years ago when all the trees should have died and then reappeared a Number of years later?
+No tree could survive being underwater for half a year. How is that there are no breaks in tree rings for the past 14,000 years? Why don't we see a sudden break 4,000-5,000 years ago when all the trees should have died and then reappeared a number of years later?
 
 ## Anthropology
 
@@ -46,5 +47,7 @@ No tree could survive being underwater for half a year. How is that there are no
 ## Geology
 
 ## Meterology
+
+
 
 ## Mythology
