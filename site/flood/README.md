@@ -48,6 +48,4 @@ No tree could survive being underwater for half a year. How is that there are no
 
 ## Meterology
 
-
-
 ## Mythology

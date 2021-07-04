@@ -24,9 +24,7 @@ This is the central story to Christianity, so I would expect that there is a lar
 
 ## Luke - Josephus
 
-<!-- https://infidels.org/library/modern/richard_carrier/lukeandjosephus.html#1 -->
-
-It's common knowledge that about 40% of Luke's material is copied from Mark. However, almost every historical fact that Luke mentions also overlaps with Josephus. So the historical facts that are so often pointed to in order to prove the veracity of Luke, are very likely just copied from the works of Josephus.
+It's common knowledge that about 40% of Luke's material is copied from Mark. However, many historical details that Luke mentions also overlaps with Josephus.
 
 <QuoteWithReference
   quote="More than any other Gospel writer, Luke includes references to the non-Christian world of affairs. Almost every incident of this kind that he mentions turns up somewhere in Josephus' narratives."
@@ -50,6 +48,21 @@ Josephus' *Jewish Antiquities* was written around 94 AD. If Luke did indeed borr
 
 Writing almost 60 years after Paul, there were certainly no living primary sources still alive at the time of writing. With Luke being written so long after the events themselves in both Luke and Acts, how much confidence can we put in their veracity? 
 
+<!--
 ## The Odyssey
 
+In ancient education, students were taught how to read and write using Homer. They did this by rewriting certain passages of Homer, changing the vocabulary, or even writing in a similar style to Homer on different subjects. The author of Mark was  
+
+<ScriptureQuote 
+  reference="Illiad 24"
+  quote="Priam, king of Troy, sets out at night to rescue the body of his son, Hector, from his murderer, Achilles. The journey was dangerous. He entered Achilles’ abode, and asked for the body of Hector. Achilles was amazed that Priam dared to enter his home. Achilles sent two soldiers to get the ransom, and summoned maidservants to ‘wash and anoint him’. Hector’s body had been saved from desecration. ‘So when the maids had bathed and anointed the body sleek with olive oil and wrapped it round and round in a braided battle-shirt and handsome battle-cape, then Achilles himself lifted it and placed it upon a bier’. [Hector’s bones would be placed in an ossuary, buried in the ground, and covered with stones.] [Priam left with the body at night and brought it to Troy for a fitting burial.] Cassandra was the first to see Priam coming with the bier in the wagon. Three women led in the lament: Andromache, Hecuba, and Helen. After elaborate preparations, they burned Hector’s body at dawn."
+/>
+
+<ScriptureQuote 
+  reference="Mark 15:42-16:2"
+  quote="When it was late, and since it was the day of Preparation, that is, the day before the sabbath, Joseph of Arimathea, a distinguished member of the council, who was also himself waiting expectantly for the kingdom of God, dared to go to Pilate and asked for the body of Jesus. Then Pilate was amazed that he might already be dead; and summoning the centurion, he asked him whether he had been dead for some time. [A woman earlier had anointed Jesus.] When he learned from the centurion that he was dead, he granted the body to Joseph. [Jesus’ rapid death and burial saved the corpse from desecration.] Then Joseph bought a linen cloth, and taking down the body, wrapped it in the linen cloth and placed it in a tomb that had been hewn out of rock. He then rolled a stone against the door of the tomb. Mary Magdalene and Mary the mother of Joses saw where the body was laid. When the sabbath was over, Mary Magdalene and Mary the mother of James, and Salome bought spices, so that they might go and anoint him. And very early on the first day of the week, when the sun had risen, they went to the tomb"
+/>
+-->
+
 ## Literary Techniques
+
