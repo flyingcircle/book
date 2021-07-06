@@ -38,14 +38,8 @@ By digging up older trees and analyzing the ring structure, researchers have bee
 
 No tree could survive being underwater for half a year. How is that there are no breaks in tree rings for the past 14,000 years? Why don't we see a sudden break 4,000-5,000 years ago when all the trees should have died and then reappeared a number of years later?
 
-## Anthropology
-
 ## Zoology
 
 ## Paleontology
 
 ## Geology
-
-## Meterology
-
-## Mythology
