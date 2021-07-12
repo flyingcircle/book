@@ -6,6 +6,8 @@ title: The Gospels
   title="The Gospels"
 />
 
+The typical evangelical church presents the Gospels more or less as is. The events in them all really happened and that the authors are retelling historical events as told by either themselves or by close eyewitnesses of the events. 
+
 ## Authorship
 
 <QuoteWithReference
