@@ -18,10 +18,8 @@ Why do we trust a book whose authorship we don't know? Why doesn't the author of
 
 source: On the Historicity of Jesus, Pg. 622-623
 
-## James
+## James, 1 2 3 John, Jude
 
-## 1, 2, and 3 John
+I don't want to continually belabor the same points, but scholars for similar reasons to other books also agree that these books are also written late. James is the only book that could possibly be dated to the late 60's at the earliest, but it is generally held that these books are all late first century (90 - 110).
 
-## Jude
-
-## Revelation
+Why do we have books that were written nearly 50 years after Paul's writings? This is almost an entire generation removed from the apostles themselves. So what authority are we listening to when we say that these books have the authority of God behind them? Who decided that these books should be in the NT and why?
