@@ -11,7 +11,7 @@ title: Peter
   quote="Now when they saw the boldness of Peter and John and realized that they were uneducated and ordinary men, they were amazed and recognized them as companions of Jesus."
 />
 
-Most scholars today don't believe that Peter authored 2 Peter, and there's also evidence that he didn't even write 1 Peter either. The author of these books obviously knew Greek very well; they knew the Greek Old Testament scriptures very well; they knew how to write in a compelling manner very well. However, based on the description we get from the Gospels of a fisher from the small town of Capurnaum, it was highly unlikely that Peter would have known Greek or how to write.
+Most scholars today don't believe that Peter authored 2 Peter, and there's also evidence that he didn't even write 1 Peter either. The author of these books obviously knew Greek very well; they knew the Greek Old Testament scriptures very well; they knew how to write in a compelling manner very well. However, based on the description we get from the Gospels of a fisher from the small town of Capernaum, it was highly unlikely that Peter would have known Greek or how to write.
 
 <QuoteWithReference 
   quote="In order to evaluate Peter's linguistic abilities, the place to begin, then, is with Capernaum. A full summary of what we know about Capernaum from Peter's day is provided by an American archaeologist of Palestine, Jonathan Reed. 2 On the basis of archaeological digs and historical sources, it is clear that Capernaum was a historically insignificant village in rural Galilee. It is never mentioned in any ancient source prior to the Gospels. It is scarcely mentioned by any sources after that...

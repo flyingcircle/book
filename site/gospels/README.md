@@ -13,7 +13,7 @@ The typical evangelical church presents the Gospels more or less as is. The even
 <QuoteWithReference
   quote="The 'usual' consensus on the four canonical Gospels is that Mark was written around 70, Matthew around 80, Luke around 90, and John around 100."
   attribution="Richard Carrier"
-  source="On the Historicty of Jesus, pg. 307"
+  source="On the Historicity of Jesus, pg. 307"
 />
 
 We don't actually know who wrote the gospels. Any of them. The Gospels themselves never actually state who is writing them. The names that we have for the Gospels today were added sometime around 150 AD, several decades after they are assumed to have been written. So we know that the authors of the gospels were not eyewitnesses to the events described in the Gospels.
@@ -36,7 +36,7 @@ It's common knowledge that about 40% of Luke's material is copied from Mark. How
 
 For example, Luke mentions a "Census of Quirinius" in Luke 2. No other Gospel mentions this particular detail, so where does Luke get this information? Josephus likewise uses the "Census of Quirinius" near the beginning of the story he was telling. If this were the only incidence, perhaps we could put this up to chance, but Luke and Josephus seem to both use the same details in their stories. They both:
 
-1. Mention 3 rebel leaders: Judas the Galilean, Theudas, and "The Egyptian" (Acts 5 and 21; Jewish Antiquites 18 and 20)
+1. Mention 3 rebel leaders: Judas the Galilean, Theudas, and "The Egyptian" (Acts 5 and 21; Jewish Antiquities 18 and 20)
 2. Mention the death of Agrippa I (and both mention him putting on a robe) (Acts 12; JA 19)
 3. Use Drusilla and Felix together as a couple (Acts 24; JA 20)
 4. Similarities in Seige of Jerusalem description (Acts 19; JW 6)

@@ -10,12 +10,12 @@ title: Paul
 
 The books of 1 Timothy, 2 Timothy, and Titus are sometimes referred to as the "Pastorals" of Paul since the tone of the letters is much more personal compared to his other letters. However, scholarship over the past 100 years has noticed a couple of troubling facts about the pastorals. The vocabulary of used in the Pastoral letters doesn't line up with the rest of Paul's letters. Statistical analyses done on the vocabulary used among all of Paul's letters shows that the pastorals simply don't line up with the rest of Paul's letters.
 
-<ImageWithCaption src="/images/Paul_Unique_Words.png" title="Number of unique words per page in each of Paul's espitles. A - minus the pastorals, B - including pastorals" bottomTitle="The Problem of the Pastoral Epistles by P.N. Harrison Pg. 23"/>
+<ImageWithCaption src="/images/Paul_Unique_Words.png" title="Number of unique words per page in each of Paul's epistles. A - minus the pastorals, B - including pastorals" bottomTitle="The Problem of the Pastoral Epistles by P.N. Harrison Pg. 23"/>
 
 <ImageWithCaption src="/images/Paul_Hapax_Legomena.png" title="Number of words per page not found anywhere else in the NT. A - including the pastorals, B - excluding pastorals" bottomTitle="The Problem of the Pastoral Epistles by P.N. Harrison Pg. 21"/>
 
 <QuoteWithReference 
-  quote="...there are 848 different words used in the pastoral letters. Of that number 306 over one-third of them! do not occur in any of the other Pauline letters of the New Testament. That's an inordinately high number; especially given the fact that about two-thirds of these 306 words are used by Christian authors living in the second cenury."
+  quote="...there are 848 different words used in the pastoral letters. Of that number 306 over one-third of them! do not occur in any of the other Pauline letters of the New Testament. That's an inordinately high number; especially given the fact that about two-thirds of these 306 words are used by Christian authors living in the second century."
   attribution="Bart Ehrman"
   source="Forged, pg. 112"
 />
@@ -39,7 +39,7 @@ Perhaps Paul's change in vocabulary is not a big enough difference to definitive
 
 3. Paul speaks about everyone being in equal in Christ and women praying, prophesying, and receiving gifts in Corinthians, but then the pastorals appear to say the opposite in maintaining a male hierarchy and reducing the role of women in the church. In fact, Paul never speaks about a church hierarchy at all in his epistles, but then in the Pastorals, maintaining and defining the church hierarchy seems to be the main purpose of the letter.
 
-Why is the vocabulary so radically different in the Pastorals compared to the rest of Paul's writing? Why do the Pastoral letters' vocabulary line up more with later second century voacbulary? Why does the theology between Paul's other epistles and the pastorals not line up as a single coherent theology? What other reasonable conclusion is possible here other than to say that Paul didn't write 1 Timothy, 2 Timothy, and Titus?
+Why is the vocabulary so radically different in the Pastorals compared to the rest of Paul's writing? Why do the Pastoral letters' vocabulary line up more with later second century vocabulary? Why does the theology between Paul's other epistles and the pastorals not line up as a single coherent theology? What other reasonable conclusion is possible here other than to say that Paul didn't write 1 Timothy, 2 Timothy, and Titus?
 
 ## 2 Thessalonians
 
@@ -58,7 +58,7 @@ Why is the vocabulary so radically different in the Pastorals compared to the re
   quote="not to become easily unsettled or alarmed by the teaching allegedly from us—whether by a prophecy or by word of mouth or by letter—asserting that the day of the Lord has already come. Don’t let anyone deceive you in any way, for that day will not come until the rebellion occurs and the man of lawlessness is revealed, the man doomed to destruction."
 />
 
-There are 2 major reasons that scholars also believe 2 Thessalonians to also not be written by Paul. The first is that the theology between the 2 makes an extremely radical shift. In 1 Thessalonians 4, we can see that Paul is comforting those who have died before Christ's return. A particular note is also that Paul includes himself among the living during Christ's return. Paul is teaching that Christ's return would happen during his own lifetime and that it would "like a theif in the night". It would happen quickly and suddenly.
+There are 2 major reasons that scholars also believe 2 Thessalonians to also not be written by Paul. The first is that the theology between the 2 makes an extremely radical shift. In 1 Thessalonians 4, we can see that Paul is comforting those who have died before Christ's return. A particular note is also that Paul includes himself among the living during Christ's return. Paul is teaching that Christ's return would happen during his own lifetime and that it would "like a thief in the night". It would happen quickly and suddenly.
 
 However, this changes in 2 Thessalonians. Now, additional prophesies must be fulfilled before Christ's return, and the author is calming the readers' minds that Christ is not returning as quickly as they thought. This message would be very useful to Christians questioning why Christ had not returned during Paul's lifetime like he seemed to be saying in 1 Thess.
 

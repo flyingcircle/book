@@ -34,18 +34,18 @@ The differences unfortunately don't end there.
 In Acts 17, it mentions Paul converting some of the Jews in Thessalonica, but in 1 Thessalonians he addresses them as having "turned away from their idols." So in one instance, we have Jews, but in the other Pagans.
 
 <QuoteWithReference 
-  quote="Only pagans worshiped idols. Paul’s converts in both Thessalonica and Corinth (1 Corinthi ans 12:2) were former pagans. That is why he calls him-self the “apostle to the gentiles.” There were other missionaries, in particular Peter, who were in charge of taking the message to Jews (Galatians  2:8).  The  Thessalonian  and  Corinthian  churches  were  made up of gentiles (Paul), not Jews and gentiles (Acts). "
+  quote="Only pagans worshiped idols. Paul’s converts in both Thessalonica and Corinth (1 Corinthians 12:2) were former pagans. That is why he calls him-self the “apostle to the gentiles.” There were other missionaries, in particular Peter, who were in charge of taking the message to Jews (Galatians  2:8).  The  Thessalonian  and  Corinthian  churches  were  made up of gentiles (Paul), not Jews and gentiles (Acts). "
   attribution="Bart Ehrman"
   source="Jesus, Interrupted, pg. 58"
 />
 
-In another instance Acts recounts Paul's meeting in Jerusalem to discuss the authenticity of his message. Acts describes this as Paul's thrid visit to Jerusalem, but in Galatians Paul says that it was the second time that he went to Jerusalem.
+In another instance Acts recounts Paul's meeting in Jerusalem to discuss the authenticity of his message. Acts describes this as Paul's third visit to Jerusalem, but in Galatians Paul says that it was the second time that he went to Jerusalem.
 
-There are several more examples that can be found and that are mentioned in some of the books that I have cited. Perhaps some of them seem to be minor discrepencies, but the number of them that there are all goes towards the question: how historically reliable is the book of Acts? If the author of Acts isn't lining up with the details being explained by Paul himself, then was the author actually there? Or did the author simply do poor job of relaying Paul's timeline? If he simply did a poor job, then how can we trust the rest of the story's details? We don't have letters from Peter or other apostles to cross-verify the details. So how do we determine what is factual and what isn't?
+There are several more examples that can be found and that are mentioned in some of the books that I have cited. Perhaps some of them seem to be minor discrepancies, but the number of them that there are all goes towards the question: how historically reliable is the book of Acts? If the author of Acts isn't lining up with the details being explained by Paul himself, then was the author actually there? Or did the author simply do poor job of relaying Paul's timeline? If he simply did a poor job, then how can we trust the rest of the story's details? We don't have letters from Peter or other apostles to cross-verify the details. So how do we determine what is factual and what isn't?
 
 ## Hebrews
 
-We don't know who wrote Hebrews. Hebrews never states who is writing it. We also don't know when Hebrews was written. An odd point in Hebrews is that it never references anything in the Gospels. It also never references the destruction of the temple in Jerusalem that happened around 70 AD, and in Hebrews 10:1-4, the author makes an argument against temple sacrifices being a worthwhile thing. If the temple had been destroyed at the time of Hebrews' writing, then there wouldn't be any sacrifices and the arguement that the author is making would be pointless.
+We don't know who wrote Hebrews. Hebrews never states who is writing it. We also don't know when Hebrews was written. An odd point in Hebrews is that it never references anything in the Gospels. It also never references the destruction of the temple in Jerusalem that happened around 70 AD, and in Hebrews 10:1-4, the author makes an argument against temple sacrifices being a worthwhile thing. If the temple had been destroyed at the time of Hebrews' writing, then there wouldn't be any sacrifices and the argument that the author is making would be pointless.
 
 So this book is actually one of the earlier writings, sometime around 40-60 AD. So it not only predates the Gospels, it also doesn't seem to have any knowledge of any sayings of Jesus or any of the parables.
 

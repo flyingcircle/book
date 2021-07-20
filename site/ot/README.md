@@ -52,7 +52,11 @@ source: Marc Zvi Brettler. *How to Read the Bible*
 
 The book of Daniel is unique among all the books of the Bible in that it is largely written in 2 different languages. Chapters 2-8 are written in Aramaic and the rest of the book is written in Hebrew.
 
-However, despite being named Daniel, this book could not have been written by Daniel himself. The author makes multiple historical errors that someone living at the time would not have made. It talks about Nebuchadnezzar being exiled at the time, but this is probably really about a later king Nabonidus who took a leave of absence. In chapter 5, Belshazzar is listed as the final king of Babylon which is just factually incorrect. There are also Greek loan words used throughout the book. This all seems to point to Daniel having been written during the Greek period, not during the Babylonian exile.
+However, despite being named Daniel, this book could not have been written by Daniel himself. The author makes multiple historical errors that someone living at the time would not have made. 
+
+- The book talks about Nebuchadnezzar being exiled at the time, but Nebuchadnezzar was never exiled during his reign. The best that can be assumed is that this is rather a mix up with a later king, Nabonidus, who took a leave of absence. 
+- In chapter 5, Belshazzar is listed as the final king of Babylon which is just factually incorrect. 
+- There are also Greek loan words used throughout the book. This all seems to point to Daniel having been written during the Greek period, not during the Babylonian exile.
 
 Why does the author of Daniel use words that a person in Babylonian exile would not know? If the author is living in Babylonian exile, Why does the author of Daniel get current events incorrect?
 

@@ -14,7 +14,7 @@ title: Historical Flood
   link="https://answersingenesis.org/the-flood/"
 />
 
-The church taught me that the flood happened approximately 4,500 years ago. Floods happen with some frequency even today, so the changes they make to the landscape, geology, etc. are all well known. The story of Noah also tells us that every animal on the planet was reduced down to only a single mating pair (or seven pairs for the clean animals), so what evidence have we found today to demonstrate this loss of animal life? We would also be able to see catastrophic destruction of all human life save Noah and his family. So we should be able to see any civilization from before 2400 BC disappear around that time and a new set of civilzations appear after 2300 BC.
+The church taught me that the flood happened approximately 4,500 years ago. Floods happen with some frequency even today, so the changes they make to the landscape, geology, etc. are all well known. The story of Noah also tells us that every animal on the planet was reduced down to only a single mating pair (or seven pairs for the clean animals), so what evidence have we found today to demonstrate this loss of animal life? We would also be able to see catastrophic destruction of all human life save Noah and his family. So we should be able to see any civilization from before 2400 BC disappear around that time and a new set of civilizations appear after 2300 BC.
 
 ## Dendrochronology
 
