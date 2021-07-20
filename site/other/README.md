@@ -36,7 +36,7 @@ There are more than a dozen verses that have been removed in the past 150 years 
 
 There are also more phrases in scripture that have been removed, but just not the entire verse.
 
-There are also entire passages of the Bible that we know are not original but the Bible publishers decide to keep in the Bible anyways. Mark 16:9-20 and John 7:53–8:11 are the 2 largest passages that we know were not written by the original authors, but for some reason are still included in our Bibles today.
+There are also entire passages of the Bible that we know are not original, but the Bible publishers decide to keep them in the Bible anyways. Mark 16:9-20 and John 7:53–8:11 are the 2 largest passages that we know were not written by the original authors, but for some reason are still included in our Bibles today.
 
 Why do we continue to use passages that we know do not come from the original authors? Are Bible publishers implicitly stating that now the scribes who added these passages centuries later were also divinely inspired like the apostles?
 

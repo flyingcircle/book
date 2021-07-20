@@ -81,8 +81,38 @@ There are again 2 reasons that scholars don't believe that Paul wrote Ephesians.
   source="Forged, pg. 125"
 />
 
-Ephesians also has a higher number of words that only occur in Ephesians, about 50% higher than his other letters. So, again, we have good reason to be suspicious of the authorship, but this is only a single piece of evidence.
+Ephesians also has a higher number of words that only occur in Ephesians, about 50% higher than his other letters. So, again, we have good reason to be suspicious of the authorship.
 
-...
+But there also seem to be theological differences between some of the ideas in Ephesians and Paul's letters. For example:
+
+<ScriptureQuote 
+  reference="Ephesians 2:4-6"
+  quote="But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ —by grace you have been saved— and raised us up with him and seated us with him in the heavenly places in Christ Jesus"
+/>
+
+<ScriptureQuote 
+  reference="1 Corinthians 15:1-2"
+  quote="Now I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand, and by which you are being saved, if you hold fast to the word I preached to you —unless you believed in vain."
+/>
+
+In Ephesians, it seems that the author is claiming that Christians have already been saved and that we have already been raised in a spiritual sense. But no where in any of Paul's letters does Paul ever use the term "saved" to refer to a past event. Being "saved" is a process and future actuality. In fact, Ephesians 2:4-6 seems to be arguing against 1 Corinthians 15 where Paul emphatically states that Christians are in the process of being saved and will experience heaven and salvation after they have died and are then resurrected.
+
+If Paul wrote Ephesians, then why does his vocabulary shift so dramatically? Why does Paul seem to talk about being "saved" in a completely different sense from his other letters and seems to refute the theology that he was building?
 
 ## Colossians
+
+<QuoteWithReference 
+  quote="The differences between this letter and Paul's writings are striking and compelling. Just to give you a taste:
+How often the letter uses 'adversative conjunctions' (e.g., 'although'): Galatians, 84 times; Philippians, 52; 1 Thessalonians, 29; Colossians, only 8.
+How often the letter uses causal conjunctions (e.g., 'because'): Galatians, 45 times; Philippians, 20; 1 Thessalonians, 31; Colossians, only 9.
+How often the letter uses a conjunction (e.g., 'that,' 'as') to introduce a statement: Galatians, 20 times; Philippians, 19; 1 Thessalonians, 11; Colossians, only 3.
+The lists go on for many pages, looking at all sorts of information, with innumerable considerations all pointing in the same direction: this is someone with a different writing style from Paul's."
+  attribution="Bart Ehrman"
+  source="Forged, pg. 128"
+/>
+
+The vocabulary and style choices used in Colossians do not line up with Paul's letters much like Ephesians. The theology of Colossians also seems to line up with Ephesians as well using the "saved" in the same manner. This has led scholars to believe that the author of Colossians and Ephesians either borrowed from each other or were the same person.
+
+The author of Colossians also seems to talk about a "philosophy and empty deceit" but does not want to say exactly what this philosophy is or what exactly people are claiming. This isn't a strong proof, but it has the smell of a forgery where the author knows that if he quotes or directly talks about the "philosophy" he is writing against, then it will become obvious that it is a forgery.
+
+The questions for Colossians are same as those in Ephesians. Why does his vocabulary shift so dramatically? Why does Paul seem to talk about being "saved" in a completely different sense from his other letters and seems to refute the theology that he was building?
