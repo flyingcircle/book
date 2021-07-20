@@ -23,3 +23,23 @@ So why do we use the books that we use today in the Bible? If we only accept the
 Usually Christians will point back to the practices of early first or second century Christians. These Chrisitians almost certainly accepted a larger number of books than we do today, so then why do Christians today not use them? Were the Christians back then incorrect to accept certain books such as the Book of Enoch, Tobit, Maccabbees, etc.? What is the foundation being used for believing in the Protestant Bible is correct over other versions of the Christian Bible?
 
 ## Removed Scripture
+
+There are more than a dozen verses that have been removed in the past 150 years or so from the Bible. Or at least they have been removed from most versions. For example, in the NIV and ESV, you can look at Matthew 17 and see that there is no verse 21. The book skips straight from 20 to 22. The reason for this is that earlier manuscripts of the text have been discovered and these verses were missing from them. It has widely been accepted that many of these verses were added at some point in the text's history, so within the last 150 years, our Bibles have started to remove those verses. Other verses include:
+
+- Matthew 18:11; 23:14
+- Mark 7:16; 9:44; 9:46; 11:26; 15:28
+- Luke 17:36
+- John 5:3-4
+- Acts 8:37; 15:34; 24:6-8; 28:29
+- Romans 16:24
+- 1 John 5:7-8
+
+There are also more phrases in scripture that have been removed, but just not the entire verse.
+
+There are also entire passages of the Bible that we know are not original but the Bible publishers decide to keep in the Bible anyways. Mark 16:9-20 and John 7:53–8:11 are the 2 largest passages that we know were not written by the original authors, but for some reason are still included in our Bibles today.
+
+Why do we continue to use passages that we know do not come from the original authors? Are Bible publishers implicitly stating that now the scribes who added these passages centuries later were also divinely inspired like the apostles?
+
+We do not have the original copies of scriptures. The oldest complete NT that have dates to the 4th century, and we only have small fragments that date back to the 2nd century. But we have no surviving copies of any NT books from the 1st century. So if we have discovered that dozens of verses have been added to Scripture, how do we determine what is actually original and what isn't? How can we reliably read any of the Gospels if at some point in the future we discover that entire chapters had been inserted by some later scribe?
+
+Does the Word of God change? At least reviewing the past 200 years or so, the answer has been a resounding yes. So why is that?
