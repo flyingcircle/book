@@ -25,8 +25,8 @@ module.exports = {
   ga: "UA-44595227-2",
   base: "/book/",
   themeConfig: {
-    domain: "https://flyingcircle.github.io/book/dist/",
-    nav: [{ text: "Home", link: "https://flyingcircle.github.io/book/dist/" }],
+    domain: "https://flyingcircle.github.io/book/",
+    nav: [{ text: "Home", link: "https://flyingcircle.github.io/book/" }],
     sidebarDepth: 1,
     sidebar: [
       ["/", "Title Page"],
