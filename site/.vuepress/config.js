@@ -5,7 +5,7 @@ const autometa_options = {
   og: true, // open graph: facebook, pinterest, google+
   schema: true, // schema.org for google
   site: {
-    name: "MLL Letter",
+    name: "Questions for My Church",
   },
   author: {
     name: "Jeremy Hamilton"
@@ -19,9 +19,9 @@ const autometa_options = {
 };
 
 module.exports = {
-  title: "MLL Letter",
+  title: "QMC",
   description:
-    "The MLL letter is a collection of research that asks questions about the fundamental reasoning behind biblical literalism.",
+    "Questions for My Church is a collection of research that asks questions about the fundamental reasoning behind biblical literalism.",
   ga: "UA-44595227-2",
   base: "/book/",
   themeConfig: {
@@ -42,7 +42,7 @@ module.exports = {
       ["/nt/", "New Testament"],
       ["/other/", "Other"],
       ["/conclusion/", "Conclusion"],
-      ["/epilogue/", "Epilogue"]
+      //["/q&a/", "Q & A"]
     ],
     repo: "flyingcircle/book",
     docsRepo: "flyingcircle/book",
@@ -57,9 +57,9 @@ module.exports = {
     // As a special case, the default locale can use '/' as its path.
     "/": {
       lang: "en-US", // this will be set as the lang attribute on <html>
-      title: "MLL Letter",
+      title: "QMC",
       description:
-        "The MLL letter is a collection of research that asks questions about the fundamental reasoning behind biblical literalism."
+        "Questions for My Church is a collection of research that asks questions about the fundamental reasoning behind biblical literalism."
     }
   },
   serviceWorker: true,

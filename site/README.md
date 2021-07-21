@@ -1,10 +1,10 @@
 ---
-title: My Last Letter on the Bible - My Search for Answers to Biblical Literalism
+title: Questions for My Church
 ---
 
 <TitlePage
-  title="MLL LETTER"
-  subtitle="MY SEARCH FOR ANSWERS TO BIBLICAL LITERALISM"
+  title="Questions for My Church"
+  subtitle="QUESTIONS FROM BEING RAISED IN A CONSERVATIVE EVANGELICAL CHURCH"
   author="Jeremy E. Hamilton"
-  dates="June 2021"
+  dates="July 2021"
 />
