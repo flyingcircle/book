@@ -13,6 +13,32 @@ title: "Prophecies"
 
 ## The Cyrus Prophecy
 
+<ScriptureQuote
+  reference="Isaiah 45:1"
+  quote="This is what the Lord says to his anointed,
+    to Cyrus, whose right hand I take hold of
+    to subdue nations before him
+    and to strip kings of their armor,
+    to open doors before him
+    so that gates will not be shut"
+/>
+
+This was often pointed to as one of the great prophecies of the Bible. The Bible predicts Cyrus subduing the nations years before Cyrus was even alive. Isaiah is believed to have lived somewhere between 740-680BC and Cyrus reigned 560-530BC so Isaiah was able to predict the arrival of this ruler hundreds of years in advance. This is a huge prophecy.
+
+The problem is that modern scholars do not believe that Isaiah actually wrote all of Isaiah. They instead have found that Isaiah was likely written by 3 or more people who wrote extra sections to an already existing book. Scholars generally divide the book of Isaiah into 3 sections: Chapters 1-39, 40-55, and 56-66. Why do they claim this?
+
+Well there are 3 basic reasons:
+
+- The Historical context changes between the 3 sections. The second section assumes that Jerusalem has already been destroyed and section 3 speaks from a context when the Jews are rebuilding the temple
+- Isaiah's name is no longer used after section 1.
+- A big style and vocabulary shift happens at section 2.
+
+<ImageWithCaption src="/images/isaiah_stats.png" bottomTitle="Two Computerized Statistical-Linguistic Tests Concerning the Unity of Isaiah by Y.T. Radday"/>
+
+Radday's research discovered a lot of statistically significant findings showing that there is a strong difference in the style of words being using in the first section of Isaiah (In the graph "Sections I, II, and III") vs the second and third sections (IV, V, and VI). So for instance you can see in the last column the percentage of inflected nouns between the sections is very neatly divided into 2 sections.
+
+Radday and others have done many more statistical analyses that go on to demonstrate that Isaiah most likely was written by more than one person. This combined with the changes in historical perspective then would lead one to conclude that Isaiah's Cyrus prophecy would've been written after Cyrus was already king and after he had already accomplished everything laid out in Isaiah 45.
+
 ## The Tyre Prophecy
 
 <ScriptureQuote

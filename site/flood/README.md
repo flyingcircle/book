@@ -40,6 +40,12 @@ No tree could survive being underwater for half a year. How is that there are no
 
 ## Zoology
 
-## Paleontology
+[It is estimated](https://academic.oup.com/jmammal/article/99/1/1/4834091) that there are about 6,500 species of land mammals alive today. There's at least another 7,000 species of reptiles as well. However, Answers in Genesis claims that the "worst-case" scenario would involve Noah caring for 7,000 animals.
 
-## Geology
+Even if we are only considering mammals and reptiles, then we're talking about Noah caring for close to 30,000 animals. Not only could the boat not fit that many animals, but the handful of people on the boat would not be able to feed or take care of that many animals or even come close to storing the amount of food required for everything on board.
+
+But we also have at the time that this was supposedly happening, living Wooly Mammoths in northern Russia. But also how do animals that only live on a single island redistribute themselves after the flood? Komodo dragons are only found on near Indonesia; the Galapagos turtles found only on those islands; or any other number of animals that are only found in single locations.
+
+If Noah's flood happened, then how do we explain the large diversity of life today that could not possibly all fit on a boat? How did the animals all disperse to the correct locations and for most making a journey of 1000's of miles?
+
+source: [Aron Ra](https://www.youtube.com/watch?v=i0J5WMmykEs)
