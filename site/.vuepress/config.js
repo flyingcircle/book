@@ -18,6 +18,10 @@ const autometa_options = {
   ]
 };
 
+const social_share_options = {
+  fallbackImage: '/images/candle-icon.png'
+}
+
 module.exports = {
   title: "QMC",
   description:
@@ -51,7 +55,7 @@ module.exports = {
     editLinkText: "Help us improve this page!",
     author: "Jeremy Hamilton"
   },
-  plugins: [["autometa", autometa_options]],
+  plugins: [["social-share", social_share_options, "autometa", autometa_options]],
   locales: {
     // The key is the path for the locale to be nested under.
     // As a special case, the default locale can use '/' as its path.
