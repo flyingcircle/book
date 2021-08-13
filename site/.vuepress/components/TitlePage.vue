@@ -2,6 +2,7 @@
   <section>
     <h1 class="title">{{title}}</h1>
     <h3 class="subtitle">{{subtitle}}</h3>
+    <img :src="$withBase('/images/candle-icon.png')" />
     <div class="author">{{author}}</div>
     <div class="dates">{{dates}}</div>
   </section>
@@ -28,10 +29,19 @@ h1.title {
 }
 h3.subtitle {
   text-align: center;
-  padding: 1.25rem 3rem 8rem;
+  padding: 1rem 2rem ;
   font-weight: 500;
   font-size: 1.25rem;
   letter-spacing: 0.05em;
+}
+img {
+  text-align: center;
+  padding: 1rem 2rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: 20%;
 }
 .author {
   text-align: center;
