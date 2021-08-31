@@ -35,9 +35,9 @@ Well there are 3 basic reasons:
 
 <ImageWithCaption src="/images/isaiah_stats.png" bottomTitle="Two Computerized Statistical-Linguistic Tests Concerning the Unity of Isaiah by Y.T. Radday"/>
 
-Radday's research discovered a lot of statistically significant findings showing that there is a strong difference in the style of words being using in the first section of Isaiah (In the graph "Sections I, II, and III") vs the second and third sections (IV, V, and VI). So for instance you can see in the last column the percentage of inflected nouns between the sections is very neatly divided into 2 sections.
+Radday's research discovered multiple statistically significant findings demonstrating a strong difference in the style being used between the first section of Isaiah (In the graph "Sections I, II, and III") vs the second and third sections (IV, V, and VI). So for instance you can see in the last column the percentage of inflected nouns between the sections is very neatly divided into 2 sections.
 
-Radday and others have done many more statistical analyses that go on to demonstrate that Isaiah most likely was written by more than one person. This combined with the changes in historical perspective then would lead one to conclude that Isaiah's Cyrus prophecy would've been written after Cyrus was already king and after he had already accomplished everything laid out in Isaiah 45.
+Radday and others' provides a strong foundation of evidence that Isaiah was likely written by more than one person. Combining the change of style along with the change in historical perspective then would lead me to conclude that Isaiah's Cyrus prophecy was written after Cyrus was already king and after he had already accomplished everything laid out in Isaiah 45.
 
 ## The Tyre Prophecy
 

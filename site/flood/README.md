@@ -14,7 +14,7 @@ title: Historical Flood
   link="https://answersingenesis.org/the-flood/"
 />
 
-The church taught me that the flood happened approximately 4,500 years ago. Floods happen with some frequency even today, so the changes they make to the landscape, geology, etc. are all well known. The story of Noah also tells us that every animal on the planet was reduced down to only a single mating pair (or seven pairs for the clean animals), so what evidence have we found today to demonstrate this loss of animal life? We would also be able to see catastrophic destruction of all human life save Noah and his family. So we should be able to see any civilization from before 2400 BC disappear around that time and a new set of civilizations appear after 2300 BC.
+The church taught me that the flood happened approximately 4,500 years ago. Floods happen with some frequency even today, so the changes they make to the landscape, geology, etc. are all well known. The story of Noah also tells us that every animal on the planet was reduced down to only a single mating pair (or seven pairs for the clean animals), so what evidence have we found today to demonstrate this loss of animal life? We would also be able to see catastrophic destruction of all human life save Noah and his family. If a global flood happened thousands of years ago, we should be able to find proof of that in either seeing entire civilizations of people disappear in an instant all at the same time. Or perhaps we can track certain plants that all would've died at the exact same time.
 
 ## Dendrochronology
 
@@ -36,7 +36,7 @@ By digging up older trees and analyzing the ring structure, researchers have bee
   24: The waters flooded the earth for a hundred and fifty days."
 />
 
-No tree could survive being underwater for half a year. How is that there are no breaks in tree rings for the past 14,000 years? Why don't we see a sudden break 4,000-5,000 years ago when all the trees should have died and then reappeared a number of years later?
+No tree could survive being underwater for half a year. So if God killed every living thing, how is that there are no breaks in tree rings for the past 14,000 years? Why don't we see a sudden break 4,000-5,000 years ago when all the trees should have died and then reappeared a number of years later starting a completely new chain of tree ring history?
 
 ## Zoology
 
@@ -44,8 +44,8 @@ No tree could survive being underwater for half a year. How is that there are no
 
 Even if we are only considering mammals and reptiles, then we're talking about Noah caring for close to 30,000 animals. Not only could the boat not fit that many animals, but the handful of people on the boat would not be able to feed or take care of that many animals or even come close to storing the amount of food required for everything on board.
 
-But we also have at the time that this was supposedly happening, living Wooly Mammoths in northern Russia. But also how do animals that only live on a single island redistribute themselves after the flood? Komodo dragons are only found on near Indonesia; the Galapagos turtles found only on those islands; or any other number of animals that are only found in single locations.
+We also have at the time when this was supposedly happening, living Wooly Mammoths in northern Russia. But also how do animals that only live on a single island redistribute themselves after the flood? Komodo dragons are only found on near Indonesia; the Galapagos turtles found only on those islands; or any other number of animals that are only found in single locations.
 
-If Noah's flood happened, then how do we explain the large diversity of life today that could not possibly all fit on a boat? How did the animals all disperse to the correct locations and for most making a journey of 1000's of miles?
+If Noah's flood happened, then how do we explain the large diversity of life today that could not possibly all fit on a boat? How did the animals all disperse to the correct locations and make journeys of 1000's of miles both there and back?
 
 source: [Aron Ra](https://www.youtube.com/watch?v=i0J5WMmykEs)

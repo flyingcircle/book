@@ -56,17 +56,15 @@ The problem however, is that despite a huge expansion in archaeological digs in 
   source="How to Read the Bible, Chp. 11"
 />
 
-Another example is the battle of Ai in Joshua 7 and 8. The word 'Ai' actually means 'heap' or 'ruin'. And the archaeological evidence shows that the city was uninhabited a long time period both before and after the time of Joshua. (2400-1200 BC). So if there was no one actually living there at the time, why did the author of Joshua write down this story? Why would someone name their city that?
+Another example is the battle of Ai in Joshua 7 and 8. The word 'Ai' actually means 'heap' or 'ruin'. And the archaeological evidence shows that the city was uninhabited a long time period both before and after the time of Joshua. (2400-1200 BC). So if there was no one actually living in Ai for several centuries, where did Joshua get this story about the conquest of Ai? Why would someone name their city "ruins"?
 
-Scholars instead point out that this is likely an "etiological story"; a story that is meant to explain where something got its name. The thought is that at the time when they were writing the book of Joshua, there was this well-known set of ruins (Ai). So a fictional conquest was created around this set of ruins to explain how the ruins got their name and at the same time give the site a sense of national pride and meaning.
+Scholars postulate that this is an "etiological story"; a story that is meant to explain where something got its name. The idea is that the author of Joshua wanted to explain how the ruins of Ai got its name. So a fictional conquest was created around the set of ruins to explain how the ruins got their name and at the same time give the site a sense of national pride and meaning.
 
 I do not think that the author of Joshua was intending to mislead people, but rather was more concerned with passing on stories of national pride, moral teachings, and cultural reinforcement. By using real locations that Israelites would be familiar with, the stories had a deeper connection with the readers of the stories.
 
-How can a church claim historical, factual history of Joshua when all archaeological evidence points toward none of it happening?
-
 ## Daniel
 
-The book of Daniel is unique among all the books of the Bible in that it is largely written in 2 different languages. Chapters 2-8 are written in Aramaic and the rest of the book is written in Hebrew.
+The book of Daniel is unique in the Bible because it is written in 2 different languages. Chapters 2-8 are written in Aramaic and the rest of the book is written in Hebrew.
 
 However, despite being named Daniel, this book could not have been written by Daniel himself. The author makes multiple historical errors that someone living at the time would not have made. 
 
@@ -74,18 +72,18 @@ However, despite being named Daniel, this book could not have been written by Da
 - In chapter 5, Belshazzar is listed as the final king of Babylon which is just factually incorrect. 
 - There are also Greek loan words used throughout the book. This all seems to point to Daniel having been written during the Greek period, not during the Babylonian exile.
 
-Why does the author of Daniel use words that a person in Babylonian exile would not know? If the author is living in Babylonian exile, Why does the author of Daniel get current events incorrect?
+If the author is living in Babylonian exile, how does the author of Daniel get current events incorrect?
 
 source: Marc Zvi Brettler. *How to Read the Bible*
 
 ## Chronicles
 
-The way Chronicles was introduced to me was by stating that it was more or less a retelling of parts of Samuel and Kings. Basically, an additional history that was written down around the same time as the other books but had some additional details that may have been left out of the other books. However, what isn't known by many Protestant Christians is that the book of Chronicles in the Hebrew Bible is placed at the end. It is not paired with Samuel and Kings, but rather is seen as an additional writing separate from them.
+In Sunday school, I was told that Chronicles was more or less another history of Judah that just happens to cover some of the same details as Samuel and Kings. So Chronicles was written by a different author but should also be considered 100% historically factual and never contradicts anything in Samuel and Kings. What isn't known by many Protestant Christians is that the book of Chronicles in the Hebrew Bible is actually placed at the end.
 
-The book of Chronicles ends with Cyrus the Great declaring the end of Babylonian captivity. So the author is writing sometime in the 6th century BC. So then that leaves the question, where did the author get the information he is writing about? A large amount of Chronicles comes from the other books in the Bible, but where do the additional details come from? For example in 1 Chronicles 6, a genealogy is given for the high priest Zadok who lived during the times of David and Solomon. The Chronicler then writes down an entire genealogy starting at Aaron all the way through to descendants of Zadok until the exile. Where did the Chronicler get this information on the names of the generations and that Zadok was a descendant of Aaron? We don't know and by all appearances, it seems that he made it up (which was a common practice at the time).
+The book of Chronicles ends with Cyrus the Great declaring the end of Babylonian captivity. So the author is writing sometime in the 6th century BC. So then that leaves the question, where did the author get the information he is writing about? A large amount of Chronicles comes from the other books in the Bible, but where do the additional details come from? For example in 1 Chronicles 6, a genealogy is given for the high priest Zadok who lived during the times of David and Solomon. The Chronicler then writes down an entire genealogy starting at Aaron all the way through to descendants of Zadok until the exile. Where did the Chronicler get this information on the names of the generations and that Zadok was a descendant of Aaron? We don't know, and by all appearances, it seems that he made it up (which was a common practice at the time).
 
-The Chronicler also leaves out certain stories such as King Saul, David and Bathsheba, the list of punishments from that incident, David murdering Uriah, the prophet Nathan, the rape of Tamar, Absalom's rebellion, the struggle for the throne after David's death. What these all have in common is that the author is leaving out anything that he feels makes David and Israel look bad.
+The Chronicler also leaves out certain stories such as King Saul, David and Bathsheba, David murdering Uriah, the prophet Nathan, the rape of Tamar, Absalom's rebellion, the struggle for the throne after David's death. What these all have in common is that the author is leaving out anything that he feels makes David and Israel look bad.
 
-There are many more changes that Chronicles makes to history (such as the story of King Manasseh's repentance), but the questions that come up from them are the same. The Chronicler was writing hundreds of years after the events being told but readily makes changes to the story, makes up genealogies, and omits sections that would make exiled Jews look bad. Why does the church consider Chronicles history?
+There are many more changes that Chronicles makes to the stories in Samuel and Kings (such as the story of King Manasseh's repentance), but the questions that come up from them are the same. The Chronicler was writing hundreds of years after the events being told but readily makes changes to the stories, adds genealogies, and omits most details about the Northern Kingdom. Where is the Chronicler getting his information if he is writing hundreds of years after the events took place?
 
 source: Marc Zvi Brettler. *How to Read the Bible*
