@@ -44,6 +44,7 @@ module.exports = {
       ["/paul/", "Paul"],
       ["/peter/", "Peter"],
       ["/nt/", "New Testament"],
+      ["/errors/", "Errors"],
       ["/other/", "Other"],
       ["/conclusion/", "Conclusion"],
       //["/q&a/", "Q & A"]
