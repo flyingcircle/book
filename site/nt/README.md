@@ -10,6 +10,8 @@ title: Other New Testament
 
 Acts is a historical book on the beginnings of the early Christian church. I was taught that this book is an eyewitness account by Luke himself though Acts itself never actually identifies the name of the author. It simply claims that it is written by a traveling companion of Paul. However, there are several key details that don't line up with each other.
 
+### Did Paul go to Jerusalem after his conversion?
+
 For example, we have Paul retelling his conversion experience in Galatians where he says that he stayed away from Jerusalem for 3 years.
 
 <ScriptureQuote 
@@ -29,7 +31,7 @@ However, in Acts we have a different set of events
 
 So in Paul's own words, he stayed away from Jerusalem and instead went into Arabia then back to Demascus and then finally went to Jerusalem after three years. But in Acts, we have Paul immediately heading straight to Jerusalem as soon as he leaves Damascus. And not just that, but in Galatians Paul insists that he did not see any other apostle except Peter(Cephas) and James, but again in Acts we get a different story. There, Paul is claimed to have spent time with all of the apostles.
 
-The differences unfortunately don't end there.
+### Did Paul convert Jews or Gentiles in Thessalonica?
 
 In Acts 17, it mentions Paul converting some of the Jews in Thessalonica, but in 1 Thessalonians he addresses them as having "turned away from their idols." So in one instance, we have Jews, but in the other Pagans.
 
@@ -43,7 +45,8 @@ In another instance Acts recounts Paul's meeting in Jerusalem to discuss the aut
 
 There are several more examples that can be found and that are mentioned in some of the books that I have cited. Perhaps some of them seem to be minor discrepancies, but the number of them that there are all goes towards the question: how historically reliable is the book of Acts? If the author of Acts isn't lining up with the details being explained by Paul himself, then was the author actually there? Or did the author simply do poor job of relaying Paul's timeline? If he simply did a poor job, then how can we trust the rest of the story's details? We don't have letters from Peter or other apostles to cross-verify the details. So how do we determine what is factual and what isn't?
 
-## Hebrews
+
+## Who wrote the book of Hebrews?
 
 We don't know who wrote Hebrews. Hebrews never states who is writing it. We also don't know when Hebrews was written. An odd point in Hebrews is that it never references anything in the Gospels. It also never references the destruction of the temple in Jerusalem that happened around 70 AD, and in Hebrews 10:1-4, the author makes an argument against temple sacrifices being a worthwhile thing. If the temple had been destroyed at the time of Hebrews' writing, then there wouldn't be any sacrifices and the argument that the author is making would be pointless.
 
@@ -53,7 +56,7 @@ Why do we trust a book whose authorship we don't know? Why doesn't the author of
 
 source: On the Historicity of Jesus, Pg. 622-623
 
-## James, 1 2 3 John, Jude
+## Why are James, 1 2 3 John, Jude in the Bible?
 
 I don't want to continually belabor the same points, but scholars for similar reasons to other books also agree that these books are also written late. James is the only book that could possibly be dated to the late 60's at the earliest, but it is generally held that these books are all late first century (90 - 110).
 
